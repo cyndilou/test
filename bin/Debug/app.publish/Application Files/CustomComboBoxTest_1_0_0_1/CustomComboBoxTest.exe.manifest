@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="CustomComboBoxTest.exe" version="1.0.0.1" publicKeyToken="be500ff0d3956bc2" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CustomComboBoxTest" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="CustomComboBoxTest.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CustomComboBoxTest.exe" size="23552">
+      <assemblyIdentity name="CustomComboBoxTest" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>n8y31gSkWuY9XmasTxfUikTLbjc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WPFToolkit.Extended.dll" size="345600">
+      <assemblyIdentity name="WPFToolkit.Extended" version="1.5.0.0" publicKeyToken="3E4669D2F30244F4" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>BRcXCYlePGXi60p6KbqfcL573s0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=PVI0\canschutz" issuerKeyHash="ebfdec80193a84dccb31567c76d120749a9b0a9a" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>58sgAjbEKQga+BnXMzDPM3ch7I4=</DigestValue></Reference></SignedInfo><SignatureValue>dLUJAiBiGJavipxTRkHVYJHvs/1ZFw79yYZj4xjhIiDIaU9nNyihPGD3mRnPuWIfMq+EAfL6k5gLfRC4z5GkpyACpj6qZ587RkE+ToDBl4bIJ0u6KB0zZz3DHlLdqETeXdIEDqIMu+Z5VFtZvQEvE/JzE4VwEd9IGNlPmbeb6i8=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>kFjmaqLs7IBDSrBARTG6VvLbcsKAWb57eNivCZ17h7iJzM2WKNRK/aZKigLdv3dLXHTRRgQn1PMK2QpEbSvk5bjBSL2j7XCZl3Ybugu+fQHhcbiTXalYxs+1PzZCvAN4E546V9IjjCJyiVWMc4LnBLRQfnAORlxW+JB7Dua0UEM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="8eec217733cf3033d719f81a0829c4360220cbe7" Description="" Url=""><as:assemblyIdentity name="CustomComboBoxTest.exe" version="1.0.0.1" publicKeyToken="be500ff0d3956bc2" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=PVI0\canschutz</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>FCJdDbc7SFnCczO7RK5loz3MrOQ=</DigestValue></Reference></SignedInfo><SignatureValue>AgaKtOwK3ORZr/P1yC9DiptjDxjl77aJ1Ku92mDrq2t+ZScdIqn/7WpfNnkaEHmAE5FFCZDdX2i+kXHjTXlEgBy5adW0JsnppbVTAaoeV1CQuHxm5Kz1NrIIETlMQqQVMUW5bYzkbIAbqTYzb/w6iNvRnzMlLM1C40mZP3BU2kY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>kFjmaqLs7IBDSrBARTG6VvLbcsKAWb57eNivCZ17h7iJzM2WKNRK/aZKigLdv3dLXHTRRgQn1PMK2QpEbSvk5bjBSL2j7XCZl3Ybugu+fQHhcbiTXalYxs+1PzZCvAN4E546V9IjjCJyiVWMc4LnBLRQfnAORlxW+JB7Dua0UEM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQb1uckUcRU7xMq7bt3TL9XDANBgkqhkiG9w0BAQUFADAnMSUwIwYDVQQDHhwAUABWAEkAMABcAGMAYQBuAHMAYwBoAHUAdAB6MB4XDTEyMDEwNTE5MTYyMVoXDTEzMDEwNTAxMTYyMVowJzElMCMGA1UEAx4cAFAAVgBJADAAXABjAGEAbgBzAGMAaAB1AHQAejCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAkFjmaqLs7IBDSrBARTG6VvLbcsKAWb57eNivCZ17h7iJzM2WKNRK/aZKigLdv3dLXHTRRgQn1PMK2QpEbSvk5bjBSL2j7XCZl3Ybugu+fQHhcbiTXalYxs+1PzZCvAN4E546V9IjjCJyiVWMc4LnBLRQfnAORlxW+JB7Dua0UEMCAwEAATANBgkqhkiG9w0BAQUFAAOBgQAflCS32Ak17CfwtCxHZmGfXtdgt0dTaPAj7kI34gdME5RSBOaW6iLLENiOp4Hu4WlInO3n7XYf7+ZIV6I4WD9Thx1TJ1NRTyG8AKQKwQ4JsTaGVe4BLxhiT6kC/tVK/kzW4X5aN8HzUTAvKOWVQydarX6PTgJ8scMaokp+UiMn9Q==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

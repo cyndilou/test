@@ -1,0 +1,200 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:SnoozeComboBox.cs" caret="564" fromTop="23" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:UserControl1.xaml" caret="289" fromTop="3" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:NumericEdit.cs/l:..?GoogleCalendarReminder?GoogleCalendarReminder?NumericEdit.cs" caret="216" fromTop="9" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:UserControl2.xaml" caret="791" fromTop="15" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:Dictionary1.xaml" caret="10503" fromTop="20" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:SnoozeEditableConverter.cs" caret="0" fromTop="0" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:SnoozeConverter.cs/l:..?GoogleCalendarReminder?GoogleCalendarReminder?Converters?SnoozeConverter.cs" caret="116" fromTop="5" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:NotifyPropertyChangedBase.cs" caret="0" fromTop="0" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:MainWindow.xaml.cs" caret="970" fromTop="27" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:FutureEventTimeConverter.cs" caret="257" fromTop="10" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:MainWindowViewModel.cs" caret="2120" fromTop="47" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:TestItem.cs" caret="136" fromTop="7" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:MaxSnoozeValueConverter.cs" caret="681" fromTop="20" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:MainWindow.xaml" caret="10945" fromTop="38" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:SnoozeControl.xaml" caret="1500" fromTop="24" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:SnoozeControl.xaml.cs" caret="1557" fromTop="42" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:SelectedListItemControl.xaml" caret="2457" fromTop="11" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:MainWindowViewModel.cs" caret="2076" fromTop="46" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:MainWindowViewModel.cs" caret="2285" fromTop="50" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:MainWindow.xaml" caret="15034" fromTop="22" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:MainWindow.xaml" caret="14161" fromTop="9" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:MainWindow.xaml" caret="14568" fromTop="15" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:MainWindow.xaml" caret="13965" fromTop="2" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:MainWindow.xaml" caret="15527" fromTop="38" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:MainWindow.xaml" caret="12981" fromTop="38" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:MainWindow.xaml" caret="10406" fromTop="3" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:MainWindow.xaml" caret="10660" fromTop="13" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:MainWindow.xaml" caret="10706" fromTop="7" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:MainWindow.xaml" caret="12205" fromTop="8" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:MainWindow.xaml" caret="10391" fromTop="6" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:MainWindow.xaml" caret="10945" fromTop="15" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:SelectedListItemControl.xaml" caret="736" fromTop="8" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:SelectedListItemControl.xaml" caret="2487" fromTop="18" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:SelectedListItemControl.xaml" caret="2457" fromTop="17" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:SelectedListItemControl.xaml" caret="546" fromTop="5" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:MainWindow.xaml" caret="11491" fromTop="21" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:MainWindow.xaml" caret="11909" fromTop="27" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:SelectedListItemControl.xaml" caret="3152" fromTop="17" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:SnoozeControl.xaml" caret="2547" fromTop="18" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:SnoozeControl.xaml" caret="737" fromTop="5" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:SelectedListItemControl.xaml" caret="3034" fromTop="12" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:SnoozeControl.xaml" caret="1388" fromTop="18" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:SelectedListItemControl.xaml" caret="1720" fromTop="12" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:SelectedListItemControl.xaml" caret="2430" fromTop="20" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:SelectedListItemControl.xaml" caret="2619" fromTop="24" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:SelectedListItemControl.xaml" caret="1919" fromTop="3" />
+      <File id="BFF78C10-B1F4-4A08-B5D1-B2B22348A300/f:SelectedListItemControl.xaml" caret="3272" fromTop="14" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="prop" priority="8" />
+      <Item value="MainWindowViewModel`0" priority="1" />
+      <Item value="return" priority="12" />
+      <Item value="DataContext" priority="2" />
+      <Item value="value" priority="7" />
+      <Item value="as" priority="1" />
+      <Item value="ViewModel" priority="1" />
+      <Item value="new" priority="5" />
+      <Item value="MainWindowViewModel" priority="0" />
+      <Item value="int" priority="9" />
+      <Item value="public" priority="2" />
+      <Item value="ctor" priority="2" />
+      <Item value="ValueCollection" priority="2" />
+      <Item value="if" priority="6" />
+      <Item value="snooze" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="string" priority="4" />
+      <Item value="false" priority="5" />
+      <Item value="CustomComboBoxTest" priority="0" />
+      <Item value="override" priority="3" />
+      <Item value="SelectedValue" priority="2" />
+      <Item value="IsEditable" priority="1" />
+      <Item value="true" priority="5" />
+      <Item value="else" priority="1" />
+      <Item value="null" priority="3" />
+      <Item value="HandlesScrolling" priority="0" />
+      <Item value="e" priority="1" />
+      <Item value="SelectionMode`0" priority="0" />
+      <Item value="LabelTextBlock`0" priority="0" />
+      <Item value="var" priority="1" />
+      <Item value="Increase" priority="0" />
+      <Item value="maskedTextBox" priority="6" />
+      <Item value="IntegerUpDown`0" priority="1" />
+      <Item value="String`0" priority="0" />
+      <Item value="Double`0" priority="2" />
+      <Item value="Int32`0" priority="1" />
+      <Item value="ValueConversionAttribute`0" priority="0" />
+      <Item value="SnoozeControl`0" priority="3" />
+      <Item value="this" priority="0" />
+      <Item value="SnoozeNumber" priority="0" />
+      <Item value="numericEdit" priority="1" />
+      <Item value="DateTime`0" priority="13" />
+      <Item value="bool" priority="0" />
+      <Item value="EventTime" priority="4" />
+      <Item value="dateTime" priority="0" />
+      <Item value="DateTime" priority="0" />
+      <Item value="ReminderTimer" priority="0" />
+      <Item value="TimeSpan" priority="0" />
+      <Item value="NotifyPropertyChangedBase`0" priority="0" />
+      <Item value="RaisePropertyChanged`0" priority="2" />
+      <Item value="eventDateTime" priority="0" />
+      <Item value="Visibility`0" priority="0" />
+      <Item value="TimeSpan`0" priority="0" />
+      <Item value="maxValue" priority="0" />
+      <Item value="control" priority="3" />
+      <Item value="ObservableCollection" priority="0" />
+      <Item value="TestItem`0" priority="0" />
+      <Item value="TestItems" priority="1" />
+      <Item value="ObservableCollection&lt;TestItem&gt;" priority="0" />
+      <Item value="TestItem" priority="0" />
+      <Item value="Property1" priority="0" />
+      <Item value="Property2" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="i" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ObjectModel.ObservableCollection`1">
+      <Item value="Insert`0" priority="1" />
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@GoogleCalendarReminder.Converters.SnoozeConverter">
+      <Item value="CustomSnoozeValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.KeyEventArgs">
+      <Item value="Handled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Windows.Controls.MaskedTextBox">
+      <Item value="Value" priority="8" />
+      <Item value="ValueType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Windows.Controls.SpinEventArgs">
+      <Item value="Direction" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Double">
+      <Item value="TryParse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="TryParse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GoogleCalendarReminder.NumericEdit">
+      <Item value="SelectAll`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.RoutedEventArgs">
+      <Item value="Handled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Windows.Controls.DateTimeUpDown">
+      <Item value="Value" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="GetValueOrDefault`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="AddMinutes`0" priority="2" />
+      <Item value="Subtract`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CustomComboBoxTest.MainWindowViewModel">
+      <Item value="EventTime" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Visibility">
+      <Item value="Visible" priority="1" />
+      <Item value="Hidden" priority="0" />
+      <Item value="Collapsed" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CustomComboBoxTest.SnoozeControl">
+      <Item value="EventTime" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="TotalMinutes" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

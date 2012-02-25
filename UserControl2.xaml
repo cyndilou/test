@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="CustomComboBoxTest.UserControl2"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             Height="Auto"
+             Width="Auto"
+             MinWidth="150">
+    <StackPanel>
+        <ToggleButton Content="TEST" />
+        <Popup x:Name="PART_Popup"
+                  IsOpen="{Binding IsDropDownOpen}">
+            <Border x:Name="PopupBorder" 
+                    HorizontalAlignment="Stretch" Height="Auto" 
+                    BorderBrush="Black" Background="White" CornerRadius="3">
+                <ScrollViewer x:Name="ScrollViewer" BorderThickness="0" Padding="1">
+                    <ItemsPresenter/>
+                </ScrollViewer>
+            </Border>
+        </Popup>
+    </StackPanel>
+</UserControl>
