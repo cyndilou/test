@@ -92,9 +92,6 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="..\GoogleCalendarReminder\GoogleCalendarReminder\NumericEdit.cs">
-      <Link>NumericEdit.cs</Link>
-    </Compile>
     <Compile Include="FutureEventTimeConverter.cs" />
     <Compile Include="MaxSnoozeValueConverter.cs" />
     <Compile Include="NotifyPropertyChangedBase.cs" />
@@ -105,6 +102,7 @@
     <Compile Include="SnoozeControl.xaml.cs">
       <DependentUpon>SnoozeControl.xaml</DependentUpon>
     </Compile>
+    <Compile Include="SnoozeConverter.cs" />
     <Compile Include="SnoozeEditableConverter.cs" />
     <Compile Include="TestItem.cs" />
     <Compile Include="UserControl1.xaml.cs">
@@ -121,9 +119,6 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Compile Include="..\GoogleCalendarReminder\GoogleCalendarReminder\Converters\SnoozeConverter.cs">
-      <Link>SnoozeConverter.cs</Link>
-    </Compile>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>

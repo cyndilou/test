@@ -55,3 +55,31 @@ C:\Users\Cyndi\My Dropbox\CustomComboBoxTest\obj\x86\Debug\GenerateResource.read
 C:\Users\Cyndi\My Dropbox\CustomComboBoxTest\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\Cyndi\My Dropbox\CustomComboBoxTest\obj\x86\Debug\CustomComboBoxTest.exe.manifest
 C:\Users\Cyndi\My Dropbox\CustomComboBoxTest\obj\x86\Debug\CustomComboBoxTest.application
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\obj\x86\Debug\CustomComboBoxTest.exe
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\obj\x86\Debug\CustomComboBoxTest.pdb
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\obj\x86\Debug\Dictionary1.baml
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\obj\x86\Debug\UserControl1.baml
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\obj\x86\Debug\UserControl2.baml
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\obj\x86\Debug\SelectedListItemControl.g.cs
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\obj\x86\Debug\SnoozeControl.g.cs
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\obj\x86\Debug\UserControl1.g.cs
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\obj\x86\Debug\UserControl2.g.cs
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\obj\x86\Debug\App.g.cs
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\obj\x86\Debug\CustomComboBoxTest_MarkupCompile.cache
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\obj\x86\Debug\CustomComboBoxTest_MarkupCompile.lref
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\bin\Debug\CustomComboBoxTest.exe.manifest
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\bin\Debug\CustomComboBoxTest.application
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\bin\Debug\CustomComboBoxTest.exe
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\bin\Debug\CustomComboBoxTest.pdb
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\obj\x86\Debug\MainWindow.baml
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\obj\x86\Debug\SelectedListItemControl.baml
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\obj\x86\Debug\SnoozeControl.baml
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\obj\x86\Debug\CustomComboBoxTest.g.resources
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\obj\x86\Debug\CustomComboBoxTest.Properties.Resources.resources
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\obj\x86\Debug\CustomComboBoxTest.exe.manifest
+C:\Users\Cyndi\Documents\Visual Studio 2010\Projects\test\obj\x86\Debug\CustomComboBoxTest.application
